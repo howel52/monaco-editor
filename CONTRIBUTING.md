@@ -63,7 +63,7 @@ You need to have all the build setup of VS Code to be able to build the Monaco E
 /src/monaco-editor> npm run simpleserver
 ```
 
-Open [http://localhost:8080/monaco-editor/test/?editor=src](http://localhost:8080/monaco-editor/test/?editor=src) to run.
+Open [http://localhost:8080/monaco-editor/test/](http://localhost:8080/monaco-editor/test/) to run.
 
 ## Running a plugin from source (e.g. monaco-typescript)
 
